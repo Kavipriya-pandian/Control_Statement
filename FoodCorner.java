@@ -66,9 +66,7 @@ public class FoodCorner {
 	   
 	}
 
-	private static char ignoreCase(char c) {
-		// TODO Auto-generated method stub
-		return 0;
+	
 	}
 
 }
